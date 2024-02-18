@@ -1,1 +1,2 @@
 # odin-recipes
+The odin-recipes project is a repository that contains recipes created as part of the Odin Project curriculum. It is a collection of various recipes that users can refer to for cooking instructions and ingredient lists. It includes images, ordered and unordered lists, and paragraph tags. Each recipe links back to index.html
